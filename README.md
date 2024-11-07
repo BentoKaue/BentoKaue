@@ -1,7 +1,6 @@
-## Olá, me chamo Bento Kaue
+## Bem-Vindo, me chamo Bento Kauê, e você... ?
 
-- 🔭 Hoje Trabalhando com Front-End
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Fron and Back end
 - 😄 Pronomes: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BentoKaue&show_icons=true&theme=radical)
