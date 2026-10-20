@@ -1,8 +1,8 @@
-# Bento Kauê
+# Eae, meu nome é Kauê
 
 ### Desenvolvedor Fullstack em formação
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo;Aprendendo%2C+construindo+e+evoluindo." alt="Animação de texto roxo" />
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo;Aprendendo%2C+construindo+e+evoluindo.](https://img.magnific.com/fotos-gratis/fundo-de-textura-de-tinta-marmorizada-liquida-textura-abstrata-de-pintura-fluida-papel-de-parede-com-mistura-intensiva-de-cores_1258-82940.jpg?semt=ais_hybrid&w=740&q=80)" alt="Animação de texto roxo" />
 
 ---
 
