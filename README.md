@@ -21,7 +21,6 @@
 ### 🚀 Projetos em destaque
 
 - **[PokeAct](https://github.com/BentoKaue)** — Aplicação React com API de Pokémon, busca e listagem interativa.
-- **[30PraumProject](https://github.com/BentoKaue)** — Projeto em desenvolvimento.
 
 ### 📊 GitHub Analytics
 
